@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:SampleWPFWinAppSDK"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <DockPanel>
+        <Image Source="temp.png"></Image>
 
-    </Grid>
+    </DockPanel>
 </Window>
